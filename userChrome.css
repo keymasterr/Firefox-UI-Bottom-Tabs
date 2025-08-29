@@ -77,7 +77,8 @@
   padding: 0 !important;
 }
 #TabsToolbar-customization-target,
-#tabbrowser-arrowscrollbox {
+#tabbrowser-arrowscrollbox,
+#pinned-tabs-container {
   height: var(--tab-min-height);
 }
 #TabsToolbar .titlebar-spacer {
