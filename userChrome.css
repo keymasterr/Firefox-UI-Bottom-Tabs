@@ -79,6 +79,9 @@
 #new-tab-button {
   padding: 0 !important;
 }
+#TabsToolbar .toolbarbutton-icon {
+  border-radius: 0 !important;
+}
 #TabsToolbar-customization-target,
 #tabbrowser-arrowscrollbox,
 #pinned-tabs-container {
